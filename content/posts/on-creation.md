@@ -30,5 +30,5 @@ But with God, this is true creation - an entirely new thing. Considering all tha
 
 ### The Deep
 
-> _and darkness was over the face of the deep._ -- Genesis 1:2
+> _and darkness was over the face of the deep. And the Spirit of God was hovering over the face of the waters._ -- Genesis 1:2
 
