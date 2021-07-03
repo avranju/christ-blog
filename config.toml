@@ -12,7 +12,8 @@ enableRobotsTXT = true
   paginationSinglePost = true
   style = "auto"
   readMore = false
-  customCSS = ["css/custom.css"]
+
+  customCSS = ["css/custom.css"] 
 
 [markup]
   [markup.goldmark]

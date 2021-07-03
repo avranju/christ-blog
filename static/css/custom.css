@@ -1,3 +1,12 @@
-header h1 {
-    font-size: 1.75em;
+h1.site-title {
+    font-size: 1.2em;
+}
+
+header .header-top {
+    justify-content: flex-start;
+}
+
+article header h1 {
+    font-size: 1.8em;
+    text-align: end;
 }
