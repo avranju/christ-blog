@@ -38,7 +38,7 @@ suffering that we ought to ask, "Why?", but rather upon encountering a blessing
   turns out, is not a spectrum and we aren't graded on a scale.
 
   > _For whoever keeps the whole law but fails in one point has become guilty of
-  > all of it._ -- James 2:10
+  > all of it._ -- [James 2:10](https://biblia.com/bible/esv/Jas2.10)
 
   2. If nothing short of moral perfection will do, then absolutely no one is
      able to relate to God in transactional terms. In other words, no one is
@@ -47,10 +47,10 @@ suffering that we ought to ask, "Why?", but rather upon encountering a blessing
   3. All good things proceed from God.
 
   > _Every good gift and every perfect gift is from above, coming down from the
-  > Father of lights..._ -- James 1:17
+  > Father of lights..._ -- [James 1:17](https://biblia.com/bible/esv/Jas1.17)
 
-Given [1], [2] and [3] then, what is surprising is that any good thing at all
-happens to us. If we were to ask God to give us only what is owed to us, then we
+Given [1], [2] and [3] then, what is surprising is that any good thing happens
+to us at all. If we were to ask God to give us only what is owed to us, then we
 are asking for nothing but unrelenting suffering. If on the other hand we find
 that we have received a blessing then it is clear that not only have we _not_
 been given the suffering that we rightfully deserve, but have instead been given
@@ -58,10 +58,10 @@ innumerable blessings none of which we rightfully deserve.
 
 ## Rage against suffering
 
-Am I then glorifying suffering? Is suffering intrinsically good? No. I would
+Am I then glorifying suffering? Is suffering intrinsically good? No. But I would
 rather that we bring it to God. I would rather that while accepting that we are
 utterly deserving of it, we still bring it to our creator in our deep anguish.
-Instead of growing bitter let suffering move us closer to Him and truly we see
+Instead of growing bitter let suffering move us closer to Him and truly, we see
 that He is with us through it and even partakes of it.
 
 The book of Psalms is rife with passages full of raw emotion and anguish brought
@@ -85,7 +85,7 @@ You have put me in the depths of the pit,
 Your wrath lies heavy upon me,
   and you overwhelm me with all your waves.
 
-**Psalm 88:1-7**
+Psalm 88:1-7
 ```
 
 In the midst of deep darkness the psalmist still calls upon his saviour.
