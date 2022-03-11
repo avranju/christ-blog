@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'Bitter';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url(/fonts/Bitter/static/Bitter-Bold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Domine';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/fonts/Domine/Domine-VariableFont_wght.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-stretch: normal;
+    font-display: swap;
+    src: url(/fonts/Roboto_Serif/RobotoSerif-VariableFont_GRAD,opsz,wdth,wght.ttf)
+        format('truetype');
+}
+
+@font-face {
+    font-family: 'Roboto Serif Italic';
+    font-style: italic;
+    font-weight: 400;
+    font-stretch: normal;
+    font-display: swap;
+    src: url(/fonts/Roboto_Serif/RobotoSerif-Italic-VariableFont_GRAD,opsz,wdth,wght.ttf)
+        format('truetype');
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Bitter', cursive;
+}
+
+p {
+    font-family: 'Roboto Serif', serif;
+    text-align: justify;
+}
+
+ul li {
+    font-family: 'Roboto Serif', serif;
+}
+
+p em {
+    font-family: 'Roboto Serif Italic', serif;
+}
+
+blockquote {
+    background-color: #dfdfdf;
+    margin-left: 10pt;
+}
+
+blockquote p {
+    font-family: 'Domine', serif;
+    font-style: normal;
+    quotes: none;
+    text-align: left;
+}
+
+.dark blockquote {
+    background-color: #2f2f2f;
+}
+
+section.footnotes hr {
+    border-color: #6f6f6f;
+}
+
+.max-w-prose {
+    max-width: 95ch;
+}
