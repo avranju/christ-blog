@@ -39,8 +39,8 @@ speculate that this response must have something to do with how religion
 often is more a deeply held social identity marker that human beings use
 to belong to a community (and conversely, to identify those that do not)
 than a well-reasoned and thought through position on the nature of
-reality. So, someone converting to a different religion is perceived as
-a betrayal of one's allegiance to one's community. And in eastern
+reality. Someone converting to a different religion is tantamount to
+betraying one's allegiance to one's community. And in eastern
 honour/shame cultures, such betrayal is seen as an act that brings deep
 shame to one's immediate family which then results in a loss of standing
 in the community.
@@ -132,21 +132,12 @@ are somehow unavailable to others?
 
 ### On human flourishing
 
-The ideal rational actor is always expected to hold views that aid human
-flourishing rather than hamper it. In this rarefied hypothetical space
-constituted exclusively of rational actors, all disagreement must be
-about the nature of the views in question as to its ability to achieve
-this goal (i.e., human flourishing). In other words, reasonable people
-can disagree about what leads to human flourishing but to act
-consistently with one's beliefs should not be somehow a surprising
-outcome.
-
 Christianity adopts a particular view as to what leads to a thriving
 abundant life in the context of both life as it persists presently and
 also in the age to come. If we were to simply grant that the Christian
 view is not in error, then certain conclusions naturally follow (note
 that I am not making a defence below for the truth of Christian claims
-but only pointing out the necessary out workings that follow from taking
+but only pointing out the necessary out-workings that follow from taking
 those claims seriously).
 
 -   Given the exclusive nature of the Christian claim[^1] it necessarily
@@ -183,19 +174,18 @@ be self-evident but is worth reaffirming.
 
 ## Conclusion
 
-Human beings seem to be prone to over-reacting to situations --- to
-respond to one extreme by over-correcting to a different extreme. It
-takes a concerted effort of will in order to resist that instinct and
-come up with a measured and appropriate response. Faced with the reality
-of abuse of exercise of religious freedom in evangelising one's beliefs,
-the over-correction is to abolish evangelism entirely. A measured
-response would be to work towards abolishing the abuse of exercise of
-religious freedom and to protect the vulnerable. Ideas ought to stand or
-fall as a function of the merit of the arguments offered in its defence.
-Shutting down all discourse of a specific kind only sets the precedent
-for similar excesses in the future where those who are in power, or a
-social majority is able to determine what everyone is allowed to think
-and say.
+Human beings seem prone to over-reacting to situations --- to respond to
+one extreme by over-correcting to a different extreme. It takes a
+concerted effort of will to resist that instinct and come up with a
+measured and appropriate response. Faced with the reality of abuse of
+exercise of religious freedom in evangelising one's beliefs, the
+over-correction is to abolish evangelism entirely. A measured response
+would be to work towards abolishing the abuse of exercise of religious
+freedom and to protect the vulnerable. Ideas ought to stand or fall as a
+function of the merit of the arguments offered in its defence. Shutting
+down all discourse of a specific kind only sets the precedent for
+similar excesses in the future where those who are in power, or a social
+majority is able to determine what everyone is allowed to think and say.
 
 [^1]: As one finds in the New Testament in the book of Acts, chapter 4
     and verse 12 where Peter, speaking of Jesus, under divine
