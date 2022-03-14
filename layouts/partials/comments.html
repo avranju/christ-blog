@@ -1,0 +1,45 @@
+<script>
+    var remark_config = {
+        host: 'https://remark42.nerdworks.dev',
+        site_id: 'remark',
+        theme: document.querySelector('html').classList.contains('dark') ? 'dark' : 'light',
+    };
+</script>
+
+<script>
+    !(function (e, n) {
+        for (var o = 0; o < e.length; o++) {
+            var r = n.createElement('script'),
+                c = '.js',
+                d = n.head || n.body;
+            'noModule' in r
+                ? ((r.type = 'module'), (c = '.mjs'))
+                : (r.async = !0),
+                (r.defer = !0),
+                (r.src = remark_config.host + '/web/' + e[o] + c),
+                d.appendChild(r);
+        }
+    })(remark_config.components || ['embed'], document);
+</script>
+
+<div id="remark42"></div>
+
+<script>
+    // setup a change observer for the class list on the HTML
+    // element to detect theme change
+    const html = document.querySelector('html');
+    const config = {
+        attributes: true,
+        childList: false,
+        subtree: false
+    };
+    const observer = new MutationObserver((mutations) => {
+        mutations.forEach(mutation => {
+            if (mutation.type === 'attributes' && mutation.attributeName === 'class') {
+                const theme = html.classList.contains('dark') ? 'dark' : 'light';
+                window.REMARK42.changeTheme(theme);
+            }
+        });
+    });
+    observer.observe(html, config);
+</script>
